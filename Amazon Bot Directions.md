@@ -6,13 +6,13 @@
 
 # Prerequisites
 
-<br> !pip bs4 </br>
+<br> !pip install bs4 </br>
 
-<br> !pip selenium </br>
+<br> !pip install selenium </br>
 
 # Directions
 
-<br> Step 1: Create folder on desktop and put Mozilla driver (gecko), Mhrome driver, or MSEDGE driver in that folder.</br>
+<br> Step 1: Create folder on desktop and put Mozilla driver (gecko), Chrome driver, or MSEDGE driver in that folder.</br>
 
 <br> Step 2: Navigate to that the folder's directory when executing the code. Or set the folder path in code, whatever you want.</br>
 
