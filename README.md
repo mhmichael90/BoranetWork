@@ -1,10 +1,4 @@
 # BoranetWork: Coding for the benefit of Boranet 
-## Amazon Bot v 1.01
-### 3 different bots
-1) Onscreen outputter 
-2) CSV writer
-3) *Current project: Pagination and product page looping
-
 Scraping the information from the first few pages provides us with 3 different reliable sources to reference from. Paid listings, SEO listings, and High Authority listings.
 
 # Paid listings are promising because of the base level of competition for any industry. These listings tend to be heavily optimized, rather, "heavily prepped for good impression."
@@ -17,6 +11,12 @@ Scraping the information from the first few pages provides us with 3 different r
 
 # High Authority listings have extremely high ratings and at that point, the keyword revolves around the product, not the other way around.
 ![image](https://user-images.githubusercontent.com/82443544/114602381-89f30580-9c64-11eb-958e-ca202f2ff66c.png)
+
+## Amazon Bot v 1.01
+### 3 different bots
+1) Onscreen outputter 
+2) CSV writer
+3) *Current project: Pagination and product page looping
 
 # Directions
 <br> Step 1: Create folder on desktop and put Mozilla driver (gecko), Mhrome driver, or MSEDGE driver in that folder. </br>
