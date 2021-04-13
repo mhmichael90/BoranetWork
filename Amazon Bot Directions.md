@@ -4,6 +4,12 @@
 2) CSV writer
 3) *Current project: Pagination and product page looping
 
+# Prerequisites
+
+<br> !pip bs4 </br>
+
+<br> !pip selenium </br>
+
 # Directions
 
 <br> Step 1: Create folder on desktop and put Mozilla driver (gecko), Mhrome driver, or MSEDGE driver in that folder.</br>
