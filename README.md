@@ -1,5 +1,5 @@
 # BoranetWork: Coding for the benefit of Boranet 
-Scraping the information from the first few pages provides us with 3 different reliable sources to reference from. Paid listings, SEO listings, and High Authority listings.
+### Scraping the information from the first few pages provides us with 3 different reliable sources to reference from. Paid listings, SEO listings, and High Authority listings.
 
 # Paid listings are promising because of the base level of competition for any industry. These listings tend to be heavily optimized, rather, "heavily prepped for good impression."
 ![image](https://user-images.githubusercontent.com/82443544/114599804-9590fd00-9c61-11eb-8dcf-4eb6baf7546e.png)
