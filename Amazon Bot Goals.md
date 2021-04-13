@@ -7,4 +7,4 @@ Long Term Goals
 1) Visit individual product pages for custom set SERP range
 2) Figure out proper HTML pathway for Key Features
 3) Figure out selectors for Best Seller Ranks (multiple categories)
-4) Make a Chrome or Mozilla extension. App.
+4) Make a Chrome or Mozilla extension. App. 
